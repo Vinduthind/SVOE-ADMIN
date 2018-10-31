@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\project\\SVOE-master\\SVOE-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "D:\\project\\SVOE-master\\SVOE-master\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\project\\SVOE-master\\SVOE-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\setup_menu.xml",
+        "source": "D:\\project\\SVOE-master\\SVOE-master\\app\\src\\main\\res\\menu\\setup_menu.xml"
+    },
+    {
+        "merged": "D:\\home\\vindu-thind\\Public\\Firebaseui\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "D:\\home\\vindu-thind\\Public\\Firebaseui\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\home\\vindu-thind\\Public\\Firebaseui\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crop_image_menu.xml",
+        "source": "D:\\home\\vindu-thind\\Public\\Firebaseui\\app\\build\\intermediates\\exploded-aar\\com.theartofdev.edmodo\\android-image-cropper\\2.3.1\\res\\menu\\crop_image_menu.xml"
+    },
+    {
+        "merged": "D:\\project\\SVOE-master\\SVOE-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\qrgenerator_menu.xml",
+        "source": "D:\\project\\SVOE-master\\SVOE-master\\app\\src\\main\\res\\menu\\qrgenerator_menu.xml"
+    },
+    {
+        "merged": "D:\\home\\vindu-thind\\Public\\Firebaseui\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_firstactivityview.xml",
+        "source": "D:\\home\\vindu-thind\\Public\\Firebaseui\\app\\src\\main\\res\\menu\\menu_firstactivityview.xml"
+    },
+    {
+        "merged": "D:\\project\\SVOE-master\\SVOE-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crop_image_menu.xml",
+        "source": "D:\\project\\SVOE-master\\SVOE-master\\app\\build\\intermediates\\exploded-aar\\com.theartofdev.edmodo\\android-image-cropper\\2.3.1\\res\\menu\\crop_image_menu.xml"
+    },
+    {
+        "merged": "D:\\project\\SVOE-master\\SVOE-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_camera_scanner.xml",
+        "source": "D:\\project\\SVOE-master\\SVOE-master\\app\\src\\main\\res\\menu\\menu_camera_scanner.xml"
+    },
+    {
+        "merged": "D:\\home\\vindu-thind\\Public\\Firebaseui\\app\\build\\intermediates\\res\\merged\\debug\\menu\\qrgenerator_menu.xml",
+        "source": "D:\\home\\vindu-thind\\Public\\Firebaseui\\app\\src\\main\\res\\menu\\qrgenerator_menu.xml"
+    },
+    {
+        "merged": "D:\\home\\vindu-thind\\Public\\Firebaseui\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_camera_scanner.xml",
+        "source": "D:\\home\\vindu-thind\\Public\\Firebaseui\\app\\src\\main\\res\\menu\\menu_camera_scanner.xml"
+    },
+    {
+        "merged": "D:\\project\\SVOE-master\\SVOE-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_firstactivityview.xml",
+        "source": "D:\\project\\SVOE-master\\SVOE-master\\app\\src\\main\\res\\menu\\menu_firstactivityview.xml"
+    },
+    {
+        "merged": "D:\\home\\vindu-thind\\Public\\Firebaseui\\app\\build\\intermediates\\res\\merged\\debug\\menu\\setup_menu.xml",
+        "source": "D:\\home\\vindu-thind\\Public\\Firebaseui\\app\\src\\main\\res\\menu\\setup_menu.xml"
+    }
+]

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_camera_scanner"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="co.techxpose.firebaseui.CameraScanner">
+
+    <SurfaceView
+        android:id="@+id/cameranoneed"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:focusableInTouchMode="true"
+        android:background="#30000000"
+
+        />
+
+
+    <SurfaceView
+        android:id="@+id/camerapreview"
+        android:layout_width="1020px"
+        android:focusableInTouchMode="true"
+
+        android:layout_height="480px"
+        android:layout_centerInParent="true"
+        />
+
+
+    <View
+        android:layout_width="980px"
+        android:layout_height="1dp"
+        android:background="#ff0000"
+        android:layout_centerInParent="true"/>
+    <TextView
+        android:id="@+id/scannertext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"
+        android:text="Keep Focus on QrCODE"
+        android:layout_below="@+id/camerapreview"
+        android:layout_alignParentStart="true"
+         />
+
+
+</RelativeLayout>

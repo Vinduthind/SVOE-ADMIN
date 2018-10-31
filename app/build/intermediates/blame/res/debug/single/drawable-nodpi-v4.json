@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\home\\vindu-thind\\Public\\Firebaseui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder.png",
+        "source": "D:\\home\\vindu-thind\\Public\\Firebaseui\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable-nodpi-v4\\cast_album_art_placeholder.png"
+    },
+    {
+        "merged": "D:\\project\\SVOE-master\\SVOE-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png",
+        "source": "D:\\project\\SVOE-master\\SVOE-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png"
+    },
+    {
+        "merged": "D:\\home\\vindu-thind\\Public\\Firebaseui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png",
+        "source": "D:\\home\\vindu-thind\\Public\\Firebaseui\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png"
+    },
+    {
+        "merged": "D:\\project\\SVOE-master\\SVOE-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder.png",
+        "source": "D:\\project\\SVOE-master\\SVOE-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable-nodpi-v4\\cast_album_art_placeholder.png"
+    }
+]

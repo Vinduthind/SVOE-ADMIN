@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.2.2/21160115cae0462d0afb47737a6348adedf13666/firebase-client-android-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21160115cae0462d0afb47737a6348adedf13666">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.2.2_9554fb005013135529ff347086c31a0f62d95927/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.2.0_4a616c79894418aae63b3c620f5ae4fbbfa9aa5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.0_10308d90f8948feafd144c2b96c4d2216b282689/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.2.0_cf46aba4ae2e36824ee18921c1dab82fca0d4c24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.0_4d4b2f38c34e5be888a2b0ca109a6797ab224789/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_7f2b986303c0bd3835b20cf0ee3b973c168f4688/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.2.0_94c79323b7e6d180b7f779f90413b21ed62ba3d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_5eb4614f9cf7894fd8169a41397124f75cdf0b1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.journeyapps-zxing-android-embedded-3.2.0_6b3c3d3dce7c84937a322fd107d1f054658c4f1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_a434bf29b1bc1a006131760b43fbc78e233c6150/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.2.0_07a52802c65f718c51649232eb45cecc429667c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_90baf13af40f7c2c26a92e7aed04f2b7f4334057/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.2.0_ec9d973ce0393c29d1b01e4a725781731952fd91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_957131464d7b6ead689bd8ec5f5478757f8d4468/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.2.0_2dcb6a692ec343db1e1db36361823fe45df7d0c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.11_6530aaba728cd95748c0927d0c97c1be7eb3c348/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.2.0_8903be18529018926733661a03999d460a32a8aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1f95b0d76b8941577ad0ce807bd9e12fd39bfd9">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-25.2.0_96d1640938d58b99d2a996233fc116d3906fff16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_0953993be8880ada8387e84f245c32991e1d5f28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.2.0_1ca56ef38c8bc50949cd84e93db433b830ed9710/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.2.0_b740378722472bf5c80b68c68580021e07c22c26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.2.0_116649c8793465a9a8e0934071265b340ac4baef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.0_77fa0cff06e33eeae4488c18dc007ba17b3962ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.0_7c39b956063dee27ae8f30dd9a513c73774456d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.2.0_af04741fce85bc5454220167a678e2ff438ffcaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.2.0_c706dc6345d97114a1324a89db76e17f0303b301/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.2.0_6d8508ae0ad16a96aa8ff94adb4fd2fbd236bde8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.2.0_ba542fbc9382ee00149265b9f2b813f3d3d7e4c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.2.0_14d0a138d5bee81680aee86b17266fd3a80590c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.2.0_bc003b60f05c7587a3fc6c84f8b26780e2130321/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_40afcd769f9298f54ed8b96efed0377085795104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_742aa3a75ed0b9e854eec78edf8b23c962139b71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.2.0_650ce84cd0fec2a45a162d39a4855134ad640be8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.2.0_af0842910882318b77ae64fe69bf1792f1875952/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.0_ca8683c0ebc0937725ca95993a04ead9b5de757f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.2.0_b4b9cd32db0ec82c3c70d36989ebb85b473bafe5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.2.2/c7501a84f99a9de5953234332ca9a9c06078321/firebase-client-jvm-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c7501a84f99a9de5953234332ca9a9c06078321">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.2.2_25a4bfc9acfc0124d7fd3e3fe1cb72e51bb41f32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.2.0_c8590ca304b9c5597f1937d318e0c7045ed81d70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.2.0_cadf104578ef8fe74149a93aaae72421c3200da4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.2.0_8e164be44fff11461606b41cd8d02733630c34aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_20f94fe7db313c6552dd3bc87ef05103899d8055/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1c8f5bdcd7a683424a718d8a333ed84307119da">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5386c1d0b099c1f29c49b70c2263efe8d3fed7d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.2.0_4619c7e5933c158da9459cd11b1c38b092c50fd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.2.0_c3553a49a414375b41af4a3fa21f512e97dadd1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.2.0_cb488b0df8f54eab618ab2504ac395ff0c475208/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.2.0_79ad108f82c0617add8c59fe403df13dba3163f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.2.0_c15bcdd8b88d597078fe35cd8196718d74562b87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_0762d46656b1aa4a42d1cbd4bf28d851e115edfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_9bec3d4326c0f48c878a46fde0d852cca2d9cc47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_8cc211c72ff5c48508cc62a7aa4f327fcb6d0667/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_ba1f97814c02bd45550ca0966cbef63bc094235c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.2.0_b3288545cc846f3f717fa29f220e436332eec2ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.2.0_ccef991c5661722032725a68b0ca7ba609379b4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_cae1c014abb8cc0167f3d7bc0c066ccbcc258da8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_4895f99c77f2ba7c71f312dd29cbad28fb83ece9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.0_95b6217a9290a71a50dfc263427443046c782181/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/1.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5bcd9cbfeedc58f493339841a7c5d0347a39f0b">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-database-1.2.0_a00f860ea3ef97781f7262bb0c5efc03bbaa2eaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.2.0_c1a5418aa45a98e0bcf8ab6fc5e846864bfc95e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.theartofdev.edmodo/android-image-cropper/2.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a32a39a9fcae3d354a312cdb78c18159fa702e6">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.theartofdev.edmodo-android-image-cropper-2.3.1_365dc46b861dbdd175f9996bae73546ac514422b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.0_a85cf951bcacf21c5bdff6f6be62eab188eec89f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.2.0_0b196c9e8efe014128afd62d6781fa462cfdab95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_ab3e4c2646cb1e070ace06a01adcbf9362a943dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.2.0_b14ca3a4bf0d86211d06ef755fd98f622d94025c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_108ceee98fee5b19039fb47dc63cdbb388c61493/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.2.0_d8cdae31f1ef7ce259587ecf793fe0cdeb557314/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.2.0_442d889d1bfd5ea3a4f59c6dcbb7436ebd05c3dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.2.0_d8ecfd3d29c440f84e0bd69311f05c49533362b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_29f297e3762aca612b0fdee6911ffcba482630b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.2.0_5c8c7ecc1f6897dba4bab0a05abfc6306f47385e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.0_57719a5451a5f54ede259da6928100beeee2e259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.2.0_6cb1b47c907e6126973aa7113228588eb85579ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_f855735f2c2ecbed260fb1947dfaaf062fa84695/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.2.0_da5c25f717d22fdcb176cfc686b79ebbfb008ba2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_5e78809481f5f3ddc3680b734cdb114e946a829e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.2.0_e3d637b241140297f365279b7cb1ef8a83bb2df3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.2.0_5358a4fd17004b824300ca231a0a050a89bcd7f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.2.0_6c19e3db7bba74bceb7c3b2f8ec41ec4e21bd0e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.0_a5d5bec1a048d1aa461b7b3391463d34472d4757/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ec075f516b6bd586aacbb139ae3fcd9f80f4092">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f0573c2f411a523068fe1e0062dd9025acd7e5e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="/home/vindu-thind/Public/Firebaseui/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.2.0_c0fe38acf6348cc35060a18837a624704deea40c/classes.dex" />
+    </item>
+
+</items>

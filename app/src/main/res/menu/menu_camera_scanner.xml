@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="co.xpose.qrcodescannerfinal.CameraScanner" >
+    <item android:id="@+id/action_refresh"
+        android:title="Refresh"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_history"
+        android:title="History"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_exit"
+        android:title="Exit"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_flashlight_off"
+        android:title="History"
+        android:icon="@mipmap/ic_flash_off_white_24dp"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/action_flashlight_on"
+        android:title="History"
+        android:icon="@mipmap/ic_flash_on_white_24dp"
+        android:orderInCategory="100"
+        android:visible="false"
+        app:showAsAction="always" />
+    <item android:id="@+id/action_history_icon"
+        android:title="History"
+        android:icon="@mipmap/ic_history_white_24dp"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+
+</menu>
